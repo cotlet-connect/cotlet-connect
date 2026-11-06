@@ -1,7 +1,7 @@
 # Cotlet Connect
 
 Connect apps that have no API or MCP server to Claude Code, ChatGPT, Cursor and any AI agent.
-Each repo is a ready MCP setup, an agent skill and a small CLI that work through [Cotlet](https://cotlet.dev/?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect), a hosted MCP server that works in your own signed-in app account.
+Each repo is a ready MCP setup, an agent skill and a small CLI that work through [Cotlet.dev](https://cotlet.dev/?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect), a hosted MCP server that works in your own signed-in app account.
 
 ## Apps
 
