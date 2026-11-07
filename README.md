@@ -21,5 +21,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [StreamElements](https://github.com/cotlet-connect/streamelements-mcp): connect StreamElements to Claude Code, ChatGPT and any AI agent (list and edit chat commands)
 - [Meetup](https://github.com/cotlet-connect/meetup-mcp): connect Meetup to Claude Code, ChatGPT and any AI agent (create and copy events)
 - [AccuRanker](https://github.com/cotlet-connect/accuranker-mcp): connect AccuRanker to Claude Code, ChatGPT and any AI agent (add keywords and check your rankings)
+- [GetYourGuide](https://github.com/cotlet-connect/getyourguide-mcp): connect GetYourGuide to Claude Code, ChatGPT and any AI agent (list bookings and update availability)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
