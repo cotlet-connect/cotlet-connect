@@ -15,5 +15,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [DistroKid](https://github.com/cotlet-connect/distrokid-mcp): connect DistroKid to Claude Code, ChatGPT and any AI agent (music releases)
 - [LinkedIn](https://github.com/cotlet-connect/linkedin-mcp): connect LinkedIn to Claude Code, ChatGPT and any AI agent (posts and messages to leads)
 - [EstimateOne](https://github.com/cotlet-connect/estimateone-mcp): connect EstimateOne to Claude Code, ChatGPT and any AI agent (tenders and project leads)
+- [Google Search Console](https://github.com/cotlet-connect/google-search-console-mcp): connect Google Search Console to Claude Code, ChatGPT and any AI agent (request indexing and remove URLs)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
