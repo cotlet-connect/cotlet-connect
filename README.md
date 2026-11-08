@@ -42,5 +42,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [PhotoShelter](https://github.com/cotlet-connect/photoshelter-mcp): connect PhotoShelter to Claude Code, ChatGPT and any AI agent (manage galleries and your image library)
 - [RazorSync](https://github.com/cotlet-connect/razorsync-mcp): connect RazorSync to Claude Code, ChatGPT and any AI agent (manage work orders and invoices)
 - [ShootProof](https://github.com/cotlet-connect/shootproof-mcp): connect ShootProof to Claude Code, ChatGPT and any AI agent (manage client galleries, orders and contracts)
+- [Invoice2go](https://github.com/cotlet-connect/invoice2go-mcp): connect Invoice2go to Claude Code, ChatGPT and any AI agent (create invoices and estimates and track payments)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
