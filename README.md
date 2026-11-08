@@ -32,5 +32,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Milanote](https://github.com/cotlet-connect/milanote-mcp): connect Milanote to Claude Code, ChatGPT and any AI agent (organize boards and notes)
 - [Partiful](https://github.com/cotlet-connect/partiful-mcp): connect Partiful to Claude Code, ChatGPT and any AI agent (create events and manage guest lists)
 - [Contractor Foreman](https://github.com/cotlet-connect/contractor-foreman-mcp): connect Contractor Foreman to Claude Code, ChatGPT and any AI agent (manage projects, estimates and invoices)
+- [Pixieset](https://github.com/cotlet-connect/pixieset-mcp): connect Pixieset to Claude Code, ChatGPT and any AI agent (manage client galleries and bookings)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
