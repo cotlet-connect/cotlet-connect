@@ -25,5 +25,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Idealista](https://github.com/cotlet-connect/idealista-mcp): connect Idealista to Claude Code, ChatGPT and any AI agent (list and update your listings)
 - [Riverside](https://github.com/cotlet-connect/riverside-mcp): connect Riverside to Claude Code, ChatGPT and any AI agent (create studios and schedule recordings)
 - [Udemy](https://github.com/cotlet-connect/udemy-mcp): connect Udemy to Claude Code, ChatGPT and any AI agent (create coupons and update courses)
+- [Faire](https://github.com/cotlet-connect/faire-mcp): connect Faire to Claude Code, ChatGPT and any AI agent (list orders and update inventory)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
