@@ -30,5 +30,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Booksy](https://github.com/cotlet-connect/booksy-mcp): connect Booksy to Claude Code, ChatGPT and any AI agent (manage bookings and clients)
 - [BookingKoala](https://github.com/cotlet-connect/bookingkoala-mcp): connect BookingKoala to Claude Code, ChatGPT and any AI agent (manage bookings and customers)
 - [Milanote](https://github.com/cotlet-connect/milanote-mcp): connect Milanote to Claude Code, ChatGPT and any AI agent (organize boards and notes)
+- [Partiful](https://github.com/cotlet-connect/partiful-mcp): connect Partiful to Claude Code, ChatGPT and any AI agent (create events and manage guest lists)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
