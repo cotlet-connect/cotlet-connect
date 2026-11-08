@@ -37,5 +37,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [ZenMaid](https://github.com/cotlet-connect/zenmaid-mcp): connect ZenMaid to Claude Code, ChatGPT and any AI agent (schedule cleaning jobs and manage customers)
 - [FieldEdge](https://github.com/cotlet-connect/fieldedge-mcp): connect FieldEdge to Claude Code, ChatGPT and any AI agent (manage jobs, dispatch and invoices)
 - [Phorest](https://github.com/cotlet-connect/phorest-mcp): connect Phorest to Claude Code, ChatGPT and any AI agent (book appointments and manage clients)
+- [DINGG](https://github.com/cotlet-connect/dingg-mcp): connect DINGG to Claude Code, ChatGPT and any AI agent (book appointments and manage clients)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
