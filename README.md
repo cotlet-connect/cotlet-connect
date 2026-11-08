@@ -44,5 +44,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [ShootProof](https://github.com/cotlet-connect/shootproof-mcp): connect ShootProof to Claude Code, ChatGPT and any AI agent (manage client galleries, orders and contracts)
 - [Invoice2go](https://github.com/cotlet-connect/invoice2go-mcp): connect Invoice2go to Claude Code, ChatGPT and any AI agent (create invoices and estimates and track payments)
 - [Appointy](https://github.com/cotlet-connect/appointy-mcp): connect Appointy to Claude Code, ChatGPT and any AI agent (schedule and manage appointments)
+- [Contractor+](https://github.com/cotlet-connect/contractor-plus-mcp): connect Contractor+ to Claude Code, ChatGPT and any AI agent (create estimates, jobs and invoices)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
