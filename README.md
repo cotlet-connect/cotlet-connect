@@ -39,5 +39,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Phorest](https://github.com/cotlet-connect/phorest-mcp): connect Phorest to Claude Code, ChatGPT and any AI agent (book appointments and manage clients)
 - [DINGG](https://github.com/cotlet-connect/dingg-mcp): connect DINGG to Claude Code, ChatGPT and any AI agent (book appointments and manage clients)
 - [Invoice Simple](https://github.com/cotlet-connect/invoice-simple-mcp): connect Invoice Simple to Claude Code, ChatGPT and any AI agent (create invoices and estimates)
+- [PhotoShelter](https://github.com/cotlet-connect/photoshelter-mcp): connect PhotoShelter to Claude Code, ChatGPT and any AI agent (manage galleries and your image library)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
