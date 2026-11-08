@@ -28,5 +28,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Faire](https://github.com/cotlet-connect/faire-mcp): connect Faire to Claude Code, ChatGPT and any AI agent (list orders and update inventory)
 - [Fresha](https://github.com/cotlet-connect/fresha-mcp): connect Fresha to Claude Code, ChatGPT and any AI agent (manage appointments and clients)
 - [Booksy](https://github.com/cotlet-connect/booksy-mcp): connect Booksy to Claude Code, ChatGPT and any AI agent (manage bookings and clients)
+- [BookingKoala](https://github.com/cotlet-connect/bookingkoala-mcp): connect BookingKoala to Claude Code, ChatGPT and any AI agent (manage bookings and customers)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
