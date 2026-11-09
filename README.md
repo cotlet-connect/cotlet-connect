@@ -26,6 +26,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Riverside](https://github.com/cotlet-connect/riverside-mcp): connect Riverside to Claude Code, ChatGPT and any AI agent (create studios and schedule recordings)
 - [Udemy](https://github.com/cotlet-connect/udemy-mcp): connect Udemy to Claude Code, ChatGPT and any AI agent (create coupons and update courses)
 - [Faire](https://github.com/cotlet-connect/faire-mcp): connect Faire to Claude Code, ChatGPT and any AI agent (list orders and update inventory)
+- [Buildertrend](https://github.com/cotlet-connect/buildertrend-mcp): connect Buildertrend to Claude Code, ChatGPT and any AI agent (read job schedules and write daily logs)
 - [Fresha](https://github.com/cotlet-connect/fresha-mcp): connect Fresha to Claude Code, ChatGPT and any AI agent (manage appointments and clients)
 - [Booksy](https://github.com/cotlet-connect/booksy-mcp): connect Booksy to Claude Code, ChatGPT and any AI agent (manage bookings and clients)
 - [BookingKoala](https://github.com/cotlet-connect/bookingkoala-mcp): connect BookingKoala to Claude Code, ChatGPT and any AI agent (manage bookings and customers)
