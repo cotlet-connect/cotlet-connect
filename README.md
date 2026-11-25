@@ -49,6 +49,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Teachers Pay Teachers](https://github.com/cotlet-connect/teachers-pay-teachers-mcp): connect Teachers Pay Teachers to Claude Code, ChatGPT and any AI agent (manage product listings and read sales)
 - [Bloom](https://github.com/cotlet-connect/bloom-mcp): connect Bloom to Claude Code, ChatGPT and any AI agent (manage client bookings, invoices and contracts)
 - [hipages](https://github.com/cotlet-connect/hipages-mcp): connect hipages to Claude Code, ChatGPT and any AI agent (answer job leads and send quotes)
+- [MyJobQuote](https://github.com/cotlet-connect/myjobquote-mcp): connect MyJobQuote to Claude Code, ChatGPT and any AI agent (answer job leads and message customers)
 - [MyBuilder](https://github.com/cotlet-connect/mybuilder-mcp): connect MyBuilder to Claude Code, ChatGPT and any AI agent (answer job leads and message customers)
 - [Yelp for Business](https://github.com/cotlet-connect/yelp-for-business-mcp): connect Yelp for Business to Claude Code, ChatGPT and any AI agent (reply to leads and answer reviews)
 - [Roofr](https://github.com/cotlet-connect/roofr-mcp): connect Roofr to Claude Code, ChatGPT and any AI agent (order roof reports and send proposals)
