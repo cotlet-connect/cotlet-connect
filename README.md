@@ -53,6 +53,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [MyBuilder](https://github.com/cotlet-connect/mybuilder-mcp): connect MyBuilder to Claude Code, ChatGPT and any AI agent (answer job leads and message customers)
 - [Yelp for Business](https://github.com/cotlet-connect/yelp-for-business-mcp): connect Yelp for Business to Claude Code, ChatGPT and any AI agent (reply to leads and answer reviews)
 - [Roofr](https://github.com/cotlet-connect/roofr-mcp): connect Roofr to Claude Code, ChatGPT and any AI agent (order roof reports and send proposals)
+- [FieldPulse](https://github.com/cotlet-connect/fieldpulse-mcp): connect FieldPulse to Claude Code, ChatGPT and any AI agent (schedule jobs and send invoices)
 - [JobNimbus](https://github.com/cotlet-connect/jobnimbus-mcp): connect JobNimbus to Claude Code, ChatGPT and any AI agent (follow up estimates and move jobs on the board)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
