@@ -73,6 +73,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [WebPT](https://github.com/cotlet-connect/webpt-mcp): connect WebPT to Claude Code, ChatGPT and any AI agent (chase notes, authorizations, denials and no-shows)
 - [Tebra](https://github.com/cotlet-connect/tebra-mcp): connect Tebra to Claude Code, ChatGPT and any AI agent (follow up claims, denials, eligibility and balances)
 - [ChiroTouch](https://github.com/cotlet-connect/chirotouch-mcp): connect ChiroTouch to Claude Code, ChatGPT and any AI agent (book requests, chase claims and reactivate patients)
+- [ChiroFusion](https://github.com/cotlet-connect/chirofusion-mcp): connect ChiroFusion to Claude Code, ChatGPT and any AI agent (post EOBs, chase claims, send statements and rebook no-shows)
 - [Semble](https://github.com/cotlet-connect/semble-mcp): connect Semble to Claude Code, ChatGPT and any AI agent (fix Healthcode invoices, rebook did-not-attends and draft GP letters)
 - [Nookal](https://github.com/cotlet-connect/nookal-mcp): connect Nookal to Claude Code, ChatGPT and any AI agent (chase ageing debts, fill gaps, win back lapsed patients and watch NDIS budgets)
 - [Cliniko](https://github.com/cotlet-connect/cliniko-mcp): connect Cliniko to Claude Code, ChatGPT and any AI agent (fill cancelled slots, rebook patients, chase invoices and clear the front desk list)
