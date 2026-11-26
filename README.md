@@ -63,5 +63,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [TurboTenant](https://github.com/cotlet-connect/turbotenant-mcp): connect TurboTenant to Claude Code, ChatGPT and any AI agent (handle rent, maintenance, leads and applications)
 - [LoopNet](https://github.com/cotlet-connect/loopnet-mcp): connect LoopNet to Claude Code, ChatGPT and any AI agent (manage commercial listings and leads)
 - [Dotloop](https://github.com/cotlet-connect/dotloop-mcp): connect Dotloop to Claude Code, ChatGPT and any AI agent (manage loops, documents and signatures)
+- [SkySlope](https://github.com/cotlet-connect/skyslope-mcp): connect SkySlope to Claude Code, ChatGPT and any AI agent (manage transaction files, checklists and DigiSign)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
