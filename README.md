@@ -87,5 +87,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [RepairLink](https://github.com/cotlet-connect/repairlink-mcp): connect RepairLink to Claude Code, ChatGPT and any AI agent (get OEM quotes from dealers, chase unconfirmed orders and list obsolete parts)
 - [PartsTech](https://github.com/cotlet-connect/partstech-mcp): connect PartsTech to Claude Code, ChatGPT and any AI agent (quote tomorrow's jobs across suppliers, track open orders and read spend by supplier)
 - [Fullbay](https://github.com/cotlet-connect/fullbay-mcp): connect Fullbay to Claude Code, ChatGPT and any AI agent (find unbilled overtime, parts that never arrived and fleet invoices that are overdue)
+- [Shopmonkey](https://github.com/cotlet-connect/shopmonkey-mcp): connect Shopmonkey to Claude Code, ChatGPT and any AI agent (find finished jobs that were never invoiced, chase estimates with no answer and check card totals)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
