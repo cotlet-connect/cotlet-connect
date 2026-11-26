@@ -83,5 +83,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [ALLDATA](https://github.com/cotlet-connect/alldata-mcp): connect ALLDATA to Claude Code, ChatGPT and any AI agent (look up labor times, TSBs and specs, and find customers who stopped coming)
 - [Mitchell 1 ProDemand](https://github.com/cotlet-connect/mitchell1-mcp): connect Mitchell 1 ProDemand to Claude Code, ChatGPT and any AI agent (build estimates, check TSBs and recalls by VIN and review bills per location)
 - [Identifix](https://github.com/cotlet-connect/identifix-mcp): connect Identifix to Claude Code, ChatGPT and any AI agent (find confirmed fixes for a code, pull procedures and schematics, and read the weekly shop reports)
+- [Worldpac speedDIAL](https://github.com/cotlet-connect/worldpac-mcp): connect Worldpac speedDIAL to Claude Code, ChatGPT and any AI agent (chase late and short-shipped orders, returns without credit and invoices matched to repair orders)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
