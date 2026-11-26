@@ -74,5 +74,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Tebra](https://github.com/cotlet-connect/tebra-mcp): connect Tebra to Claude Code, ChatGPT and any AI agent (follow up claims, denials, eligibility and balances)
 - [Nookal](https://github.com/cotlet-connect/nookal-mcp): connect Nookal to Claude Code, ChatGPT and any AI agent (chase ageing debts, fill gaps, win back lapsed patients and watch NDIS budgets)
 - [Cliniko](https://github.com/cotlet-connect/cliniko-mcp): connect Cliniko to Claude Code, ChatGPT and any AI agent (fill cancelled slots, rebook patients, chase invoices and clear the front desk list)
+- [Gentu](https://github.com/cotlet-connect/gentu-mcp): connect Gentu to Claude Code, ChatGPT and any AI agent (chase expiring GP referrals, rejected Medicare and DVA claims and unlinked results)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
