@@ -81,5 +81,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [splose](https://github.com/cotlet-connect/splose-mcp): connect splose to Claude Code, ChatGPT and any AI agent (watch NDIS budgets, find visits without an invoice and chase overdue invoices)
 - [Physitrack](https://github.com/cotlet-connect/physitrack-mcp): connect Physitrack to Claude Code, ChatGPT and any AI agent (spot patients with low adherence, collect outcome scores and answer patient messages)
 - [ALLDATA](https://github.com/cotlet-connect/alldata-mcp): connect ALLDATA to Claude Code, ChatGPT and any AI agent (look up labor times, TSBs and specs, and find customers who stopped coming)
+- [Mitchell 1 ProDemand](https://github.com/cotlet-connect/mitchell1-mcp): connect Mitchell 1 ProDemand to Claude Code, ChatGPT and any AI agent (build estimates, check TSBs and recalls by VIN and review bills per location)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
