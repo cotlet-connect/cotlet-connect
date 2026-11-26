@@ -60,6 +60,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [JobNimbus](https://github.com/cotlet-connect/jobnimbus-mcp): connect JobNimbus to Claude Code, ChatGPT and any AI agent (follow up estimates and move jobs on the board)
 - [Ascora](https://github.com/cotlet-connect/ascora-mcp): connect Ascora to Claude Code, ChatGPT and any AI agent (follow up quotes and fill the scheduler)
 - [eLocal](https://github.com/cotlet-connect/elocal-mcp): connect eLocal to Claude Code, ChatGPT and any AI agent (review phone leads and track lead spend)
+- [Alto](https://github.com/cotlet-connect/alto-mcp): connect Alto to Claude Code, ChatGPT and any AI agent (manage applicants, viewings, sales and lettings)
 - [Rightmove Plus](https://github.com/cotlet-connect/rightmove-plus-mcp): connect Rightmove Plus to Claude Code, ChatGPT and any AI agent (answer enquiries and read branch reports)
 - [TurboTenant](https://github.com/cotlet-connect/turbotenant-mcp): connect TurboTenant to Claude Code, ChatGPT and any AI agent (handle rent, maintenance, leads and applications)
 - [Innago](https://github.com/cotlet-connect/innago-mcp): connect Innago to Claude Code, ChatGPT and any AI agent (handle rent, maintenance, leases and reports)
