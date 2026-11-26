@@ -53,6 +53,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [MyJobQuote](https://github.com/cotlet-connect/myjobquote-mcp): connect MyJobQuote to Claude Code, ChatGPT and any AI agent (answer job leads and message customers)
 - [MyBuilder](https://github.com/cotlet-connect/mybuilder-mcp): connect MyBuilder to Claude Code, ChatGPT and any AI agent (answer job leads and message customers)
 - [Yelp for Business](https://github.com/cotlet-connect/yelp-for-business-mcp): connect Yelp for Business to Claude Code, ChatGPT and any AI agent (reply to leads and answer reviews)
+- [Rosie](https://github.com/cotlet-connect/rosie-mcp): connect Rosie to Claude Code, ChatGPT and any AI agent (review call summaries and update the answers)
 - [Roofr](https://github.com/cotlet-connect/roofr-mcp): connect Roofr to Claude Code, ChatGPT and any AI agent (order roof reports and send proposals)
 - [FieldPulse](https://github.com/cotlet-connect/fieldpulse-mcp): connect FieldPulse to Claude Code, ChatGPT and any AI agent (schedule jobs and send invoices)
 - [YourTradebase](https://github.com/cotlet-connect/yourtradebase-mcp): connect YourTradebase to Claude Code, ChatGPT and any AI agent (send quotes and chase invoices)
