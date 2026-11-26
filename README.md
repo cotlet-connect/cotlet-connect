@@ -69,5 +69,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Dotloop](https://github.com/cotlet-connect/dotloop-mcp): connect Dotloop to Claude Code, ChatGPT and any AI agent (manage loops, documents and signatures)
 - [SkySlope](https://github.com/cotlet-connect/skyslope-mcp): connect SkySlope to Claude Code, ChatGPT and any AI agent (manage transaction files, checklists and DigiSign)
 - [ShowingTime](https://github.com/cotlet-connect/showingtime-mcp): connect ShowingTime to Claude Code, ChatGPT and any AI agent (manage showings and feedback)
+- [connectMLS](https://github.com/cotlet-connect/connectmls-mcp): connect connectMLS to Claude Code, ChatGPT and any AI agent (search listings, run comps and manage your listings)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
