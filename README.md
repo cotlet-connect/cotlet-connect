@@ -62,6 +62,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [eLocal](https://github.com/cotlet-connect/elocal-mcp): connect eLocal to Claude Code, ChatGPT and any AI agent (review phone leads and track lead spend)
 - [Rightmove Plus](https://github.com/cotlet-connect/rightmove-plus-mcp): connect Rightmove Plus to Claude Code, ChatGPT and any AI agent (answer enquiries and read branch reports)
 - [TurboTenant](https://github.com/cotlet-connect/turbotenant-mcp): connect TurboTenant to Claude Code, ChatGPT and any AI agent (handle rent, maintenance, leads and applications)
+- [Innago](https://github.com/cotlet-connect/innago-mcp): connect Innago to Claude Code, ChatGPT and any AI agent (handle rent, maintenance, leases and reports)
 - [LoopNet](https://github.com/cotlet-connect/loopnet-mcp): connect LoopNet to Claude Code, ChatGPT and any AI agent (manage commercial listings and leads)
 - [Dotloop](https://github.com/cotlet-connect/dotloop-mcp): connect Dotloop to Claude Code, ChatGPT and any AI agent (manage loops, documents and signatures)
 - [SkySlope](https://github.com/cotlet-connect/skyslope-mcp): connect SkySlope to Claude Code, ChatGPT and any AI agent (manage transaction files, checklists and DigiSign)
