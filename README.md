@@ -61,5 +61,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Ascora](https://github.com/cotlet-connect/ascora-mcp): connect Ascora to Claude Code, ChatGPT and any AI agent (follow up quotes and fill the scheduler)
 - [eLocal](https://github.com/cotlet-connect/elocal-mcp): connect eLocal to Claude Code, ChatGPT and any AI agent (review phone leads and track lead spend)
 - [LoopNet](https://github.com/cotlet-connect/loopnet-mcp): connect LoopNet to Claude Code, ChatGPT and any AI agent (manage commercial listings and leads)
+- [Dotloop](https://github.com/cotlet-connect/dotloop-mcp): connect Dotloop to Claude Code, ChatGPT and any AI agent (manage loops, documents and signatures)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
