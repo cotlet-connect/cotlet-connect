@@ -112,5 +112,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Revelation Pets](https://github.com/cotlet-connect/revelationpets-mcp): connect Revelation Pets to Claude Code, ChatGPT and any AI agent (check vaccines before a stay, chase unpaid deposits, watch daycare credits, list boarders due an update and count free runs)
 - [Kennel Connection](https://github.com/cotlet-connect/kennelconnection-mcp): connect Kennel Connection to Claude Code, ChatGPT and any AI agent (run the vaccine and package reports, list pets still due a report card, build the feeding and medication list and find grooming clients due to rebook)
 - [ProPet](https://github.com/cotlet-connect/propet-mcp): connect ProPet to Claude Code, ChatGPT and any AI agent (review booking requests, run the day summary, catch vaccines that end before a stay, close forgotten daycare check-ins and check what is waiting for QuickBooks)
+- [PetLinx](https://github.com/cotlet-connect/petlinx-mcp): connect PetLinx to Claude Code, ChatGPT and any AI agent (list cancelled bookings, build client lists for a mailout, find lapsed recurring grooming, check deposits and prepaid credit and list vaccinations that expire)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
