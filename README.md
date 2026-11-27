@@ -107,5 +107,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Squeegee](https://github.com/cotlet-connect/squeegee-mcp): connect Squeegee to Claude Code, ChatGPT and any AI agent (replan the week after rain, chase overdue invoices, preview a price rise for a round and check Direct Debit mandates)
 - [MoeGo](https://github.com/cotlet-connect/moego-mcp): connect MoeGo to Claude Code, ChatGPT and any AI agent (chase no-shows and late cancellations, find clients due to rebook, check vaccine records before visits and review groomer commission)
 - [Gingr](https://github.com/cotlet-connect/gingr-mcp): connect Gingr to Claude Code, ChatGPT and any AI agent (check expiring vaccines, build today's arrivals list, find missing report cards and spot deposits that do not add up)
+- [ProPet](https://github.com/cotlet-connect/propet-mcp): connect ProPet to Claude Code, ChatGPT and any AI agent (review booking requests, run the day summary, catch vaccines that end before a stay, close forgotten daycare check-ins and check what is waiting for QuickBooks)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
