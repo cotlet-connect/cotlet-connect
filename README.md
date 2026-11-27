@@ -100,5 +100,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [SevenRooms](https://github.com/cotlet-connect/sevenrooms-mcp): connect SevenRooms to Claude Code, ChatGPT and any AI agent (prepare tomorrow's book, block dates for holidays, find lapsed regulars and report covers and no shows)
 - [Launch27](https://github.com/cotlet-connect/launch27-mcp): connect Launch27 to Claude Code, ChatGPT and any AI agent (assign new bookings to teams, find unpaid bookings, turn one-time cleans into recurring and add up team pay)
 - [WinTeam](https://github.com/cotlet-connect/winteam-mcp): connect WinTeam to Claude Code, ChatGPT and any AI agent (check overtime before the week closes, find wrong punches, see open shifts, review unsent invoices and flag jobs losing money)
+- [Squeegee](https://github.com/cotlet-connect/squeegee-mcp): connect Squeegee to Claude Code, ChatGPT and any AI agent (replan the week after rain, chase overdue invoices, preview a price rise for a round and check Direct Debit mandates)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
