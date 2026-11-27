@@ -105,5 +105,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Clean Smarts](https://github.com/cotlet-connect/cleansmarts-mcp): connect Clean Smarts to Claude Code, ChatGPT and any AI agent (check timesheets before payroll, read inspection scores, find work orders with no invoice and compare contract margins)
 - [CleanerPlanner](https://github.com/cotlet-connect/cleanerplanner-mcp): connect CleanerPlanner to Claude Code, ChatGPT and any AI agent (prepare tomorrow's worksheet in route order, find Direct Debit payments that did not match, pre-invoice completed jobs and check customer exports)
 - [Squeegee](https://github.com/cotlet-connect/squeegee-mcp): connect Squeegee to Claude Code, ChatGPT and any AI agent (replan the week after rain, chase overdue invoices, preview a price rise for a round and check Direct Debit mandates)
+- [Gingr](https://github.com/cotlet-connect/gingr-mcp): connect Gingr to Claude Code, ChatGPT and any AI agent (check expiring vaccines, build today's arrivals list, find missing report cards and spot deposits that do not add up)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
