@@ -98,6 +98,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [SpotOn](https://github.com/cotlet-connect/spoton-mcp): connect SpotOn to Claude Code, ChatGPT and any AI agent (split tips for payroll, check closeouts against deposits, prepare the QuickBooks export and review product mix)
 - [Olo](https://github.com/cotlet-connect/olo-mcp): connect Olo to Claude Code, ChatGPT and any AI agent (turn online ordering off for a store, mark items unavailable, set holiday hours and match Olo sales to the POS)
 - [SevenRooms](https://github.com/cotlet-connect/sevenrooms-mcp): connect SevenRooms to Claude Code, ChatGPT and any AI agent (prepare tomorrow's book, block dates for holidays, find lapsed regulars and report covers and no shows)
+- [Launch27](https://github.com/cotlet-connect/launch27-mcp): connect Launch27 to Claude Code, ChatGPT and any AI agent (assign new bookings to teams, find unpaid bookings, turn one-time cleans into recurring and add up team pay)
 - [WinTeam](https://github.com/cotlet-connect/winteam-mcp): connect WinTeam to Claude Code, ChatGPT and any AI agent (check overtime before the week closes, find wrong punches, see open shifts, review unsent invoices and flag jobs losing money)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
