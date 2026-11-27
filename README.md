@@ -93,6 +93,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Sling](https://github.com/cotlet-connect/sling-mcp): connect Sling to Claude Code, ChatGPT and any AI agent (copy and fill the schedule, clear time off in one pass, export payroll hours and catch double clock ins with Toast)
 - [Tanda](https://github.com/cotlet-connect/tanda-mcp): connect Tanda to Claude Code, ChatGPT and any AI agent (check next week's roster against the award, clear timesheets before pay run, compare wages with the labour budget and handle leave)
 - [Epos Now](https://github.com/cotlet-connect/eposnow-mcp): connect Epos Now to Claude Code, ChatGPT and any AI agent (put End of Day totals in a sheet, match sales with QuickBooks or Xero, reorder low stock and add products)
+- [SpotOn](https://github.com/cotlet-connect/spoton-mcp): connect SpotOn to Claude Code, ChatGPT and any AI agent (split tips for payroll, check closeouts against deposits, prepare the QuickBooks export and review product mix)
 - [Olo](https://github.com/cotlet-connect/olo-mcp): connect Olo to Claude Code, ChatGPT and any AI agent (turn online ordering off for a store, mark items unavailable, set holiday hours and match Olo sales to the POS)
 - [SevenRooms](https://github.com/cotlet-connect/sevenrooms-mcp): connect SevenRooms to Claude Code, ChatGPT and any AI agent (prepare tomorrow's book, block dates for holidays, find lapsed regulars and report covers and no shows)
 
