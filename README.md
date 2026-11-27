@@ -89,6 +89,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Fullbay](https://github.com/cotlet-connect/fullbay-mcp): connect Fullbay to Claude Code, ChatGPT and any AI agent (find unbilled overtime, parts that never arrived and fleet invoices that are overdue)
 - [Shopmonkey](https://github.com/cotlet-connect/shopmonkey-mcp): connect Shopmonkey to Claude Code, ChatGPT and any AI agent (find finished jobs that were never invoiced, chase estimates with no answer and check card totals)
 - [HotSchedules](https://github.com/cotlet-connect/hotschedules-mcp): connect HotSchedules to Claude Code, ChatGPT and any AI agent (build and fill the schedule, clear time off and swaps in one list, and check labor against budget)
+- [Homebase](https://github.com/cotlet-connect/homebase-mcp): connect Homebase to Claude Code, ChatGPT and any AI agent (build the schedule, review timecards before payroll, split tips and compare labor with sales)
 - [Sling](https://github.com/cotlet-connect/sling-mcp): connect Sling to Claude Code, ChatGPT and any AI agent (copy and fill the schedule, clear time off in one pass, export payroll hours and catch double clock ins with Toast)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
