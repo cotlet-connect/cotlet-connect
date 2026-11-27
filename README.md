@@ -88,5 +88,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [PartsTech](https://github.com/cotlet-connect/partstech-mcp): connect PartsTech to Claude Code, ChatGPT and any AI agent (quote tomorrow's jobs across suppliers, track open orders and read spend by supplier)
 - [Fullbay](https://github.com/cotlet-connect/fullbay-mcp): connect Fullbay to Claude Code, ChatGPT and any AI agent (find unbilled overtime, parts that never arrived and fleet invoices that are overdue)
 - [Shopmonkey](https://github.com/cotlet-connect/shopmonkey-mcp): connect Shopmonkey to Claude Code, ChatGPT and any AI agent (find finished jobs that were never invoiced, chase estimates with no answer and check card totals)
+- [HotSchedules](https://github.com/cotlet-connect/hotschedules-mcp): connect HotSchedules to Claude Code, ChatGPT and any AI agent (build and fill the schedule, clear time off and swaps in one list, and check labor against budget)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
