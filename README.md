@@ -116,5 +116,6 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [PetLinx](https://github.com/cotlet-connect/petlinx-mcp): connect PetLinx to Claude Code, ChatGPT and any AI agent (list cancelled bookings, build client lists for a mailout, find lapsed recurring grooming, check deposits and prepaid credit and list vaccinations that expire)
 - [Ko-fi](https://github.com/cotlet-connect/kofi-mcp): connect Ko-fi to Claude Code, ChatGPT and any AI agent (find orders and commissions waiting too long, prepare fees for your accountant, thank new supporters, read members by tier and check scheduled shop items)
 - [Kartra](https://github.com/cotlet-connect/kartra-mcp): connect Kartra to Claude Code, ChatGPT and any AI agent (report on the week's leads, sales per product and leads per sequence, check membership access of new buyers, list affiliate commissions due and inventory the account before an export)
+- [WebinarJam](https://github.com/cotlet-connect/webinarjam-mcp): connect WebinarJam to Claude Code, ChatGPT and any AI agent (list registrants and no-shows, draft replay emails, check EverWebinar schedules, check offers in the live room and compare replay views)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
