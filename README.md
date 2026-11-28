@@ -119,6 +119,7 @@ Each repo is a ready MCP setup, an agent skill and a small CLI that work through
 - [Paperbell](https://github.com/cotlet-connect/paperbell-mcp): connect Paperbell to Claude Code, ChatGPT and any AI agent (check unsigned contracts, find clients with unused sessions, chase intake forms, follow up after discovery calls and summarise client notes)
 - [Kartra](https://github.com/cotlet-connect/kartra-mcp): connect Kartra to Claude Code, ChatGPT and any AI agent (report on the week's leads, sales per product and leads per sequence, check membership access of new buyers, list affiliate commissions due and inventory the account before an export)
 - [WebinarJam](https://github.com/cotlet-connect/webinarjam-mcp): connect WebinarJam to Claude Code, ChatGPT and any AI agent (list registrants and no-shows, draft replay emails, check EverWebinar schedules, check offers in the live room and compare replay views)
+- [Crowdcast](https://github.com/cotlet-connect/crowdcast-mcp): connect Crowdcast to Claude Code, ChatGPT and any AI agent (report on registered and attended, ticket sales in Stripe, replays buyers cannot open, no-show emails and reminders on multi-session events)
 - [Demio](https://github.com/cotlet-connect/demio-mcp): connect Demio to Claude Code, ChatGPT and any AI agent (follow up with attendees and no-shows, send replays, put registrants in a sheet, report webinar numbers and flag events with low registrations)
 
 More apps: https://cotlet.dev/integrations?utm_source=github&utm_medium=profile&utm_campaign=cotlet-connect
